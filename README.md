@@ -19,5 +19,6 @@ Siswa kelas 10 PPLG SMK Brantas Karangkates yang sedang belajar membangun websit
 ## Struktur File
 - `index.html` : halaman utama
 - `style.css` : tampilan
-- `foto.png` : foto profil
-- java scrip :interaksi
+- `script js` : interaksi
+  
+
