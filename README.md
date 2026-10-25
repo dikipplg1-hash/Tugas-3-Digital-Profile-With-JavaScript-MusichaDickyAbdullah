@@ -1,8 +1,8 @@
 # Digital profile Musicha Dicky Indra Abdullah
 
-Website portofolio pribadi sebagai tugas Web Develope.
+tugas 3 Digital profile Musicha dicky Indra Abdullah.
 
- [portofolio-1-dicky.vercel.app](tugas3-diki.vercel.app)
+ [tugas3-diki.vercel.app](tugas3-diki.vercel.app)
 
 ## hasil tampilkan
 <img width="306" height="285" alt="Screenshot 2026-10-25 153431" src="https://github.com/user-attachments/assets/0a3648dd-6402-4c6f-99ad-b1f0fdac90f9" />
